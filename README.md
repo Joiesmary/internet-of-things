@@ -13,3 +13,4 @@ RGB using rgbLED:  https://wokwi.com/projects/333802413751272018
 
 Hello word: https://wokwi.com/projects/322062421191557714
 
+simple servo motor: https://wokwi.com/projects/new/arduino-uno
