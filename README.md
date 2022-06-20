@@ -15,3 +15,4 @@ Hello word: https://wokwi.com/projects/322062421191557714
 
 simple servo motor: https://wokwi.com/projects/334978658864202323
 servo meter using potentio meter: https://wokwi.com/projects/334980073732964946
+https://wokwi.com/projects/334980838317883987
