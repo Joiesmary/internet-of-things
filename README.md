@@ -2,6 +2,7 @@
 
 
 trafic signal: https://wokwi.com/projects/333716006026347092
+https://wokwi.com/projects/333716006026347092
 
 RGB using 3 led: https://wokwi.com/projects/new/arduino-uno
 
