@@ -21,3 +21,7 @@ servo meter with slide: https://wokwi.com/projects/335065101785629268
 
 
 buzzer: https://wokwi.com/projects/334982296663753299
+
+program using :buzzer
+https://wokwi.com/projects/335065425157030483
+
