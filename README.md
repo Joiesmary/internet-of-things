@@ -29,3 +29,5 @@ buzzer program with pushbotton:https://wokwi.com/projects/335067685745328723
 
 ultrasonic :
 https://wokwi.com/projects/335071386779255379
+
+ultrasonic with buzer; https://wokwi.com/projects/335072522958537298
