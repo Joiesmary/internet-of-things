@@ -35,3 +35,6 @@ ultrasonic with buzer; https://wokwi.com/projects/335072522958537298
 buzzer with sliding potentio meter: https://wokwi.com/projects/335609047071851090
 
 Buzzer,led,ultrasonic sensor: https://wokwi.com/projects/335610067809206868
+
+
+multiple buzer: https://wokwi.com/projects/335615786380952147
