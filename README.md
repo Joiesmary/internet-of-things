@@ -43,3 +43,5 @@ motion sensor with LED: https://wokwi.com/projects/335700704128664148
 
 Ultrasonic sensor controls servo motor
 https://wokwi.com/projects/334980059722941011
+
+Potentiometer with LED brightness variation: https://wokwi.com/projects/335701627023393363
