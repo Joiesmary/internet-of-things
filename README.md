@@ -40,3 +40,6 @@ Buzzer,led,ultrasonic sensor: https://wokwi.com/projects/335610067809206868
 multiple buzer: https://wokwi.com/projects/335615786380952147
 
 motion sensor with LED: https://wokwi.com/projects/335700704128664148
+
+Ultrasonic sensor controls servo motor
+https://wokwi.com/projects/334980059722941011
