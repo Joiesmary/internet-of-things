@@ -47,3 +47,9 @@ https://wokwi.com/projects/334980059722941011
 Potentiometer with LED brightness variation: https://wokwi.com/projects/335701627023393363
 
 Servo with push button:14.Servo with pushbutton: https://wokwi.com/projects/335704431741895252
+
+
+LAB list:
+
+1) LED/Buzzer:
+https://wokwi.com/projects/337601765761352274
