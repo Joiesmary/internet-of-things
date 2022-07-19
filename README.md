@@ -53,3 +53,5 @@ LAB list:
 
 1) LED/Buzzer:
 https://wokwi.com/projects/337601765761352274
+
+3)DHT11 sensor :https://wokwi.com/projects/337604199645708884
