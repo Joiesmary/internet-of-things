@@ -55,3 +55,5 @@ LAB list:
 https://wokwi.com/projects/337601765761352274
 
 3)DHT11 sensor :https://wokwi.com/projects/337604199645708884
+
+5)LCD with Humidity reading on it: https://wokwi.com/projects/337605873710924370
